@@ -2,9 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## SideHustle Intenship
 
-This project is a starting point for a Flutter application.
+This project is my second task at the SideHustle.
+
+A simple app that shows temperature changes and other 
+weather properties at every giving time
+
+In this project i make use of **OpenWeather api**
+
+## Get started
 
 A few resources to get you started if this is your first Flutter project:
 
