@@ -18,7 +18,7 @@ class _HomeState extends State<Home> {
   var windSpeed;
   Future getWeather() async {
     http.Response response = await http.get(Uri.parse(
-        "http://api.openweathermap.org/data/2.5/weather?q=yaounde&appid=95f2645cba857314453bc99c25ea6685"));
+        "http://api.openweathermap.org/data/2.5/weather?q=yaounde&units=metric&appid=95f2645cba857314453bc99c25ea6685"));
     var results = jsonDecode(response.body);
 
     setState(() {

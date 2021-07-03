@@ -7,7 +7,7 @@ A new Flutter project.
 This project is my second task at the SideHustle.
 
 A simple app that shows temperature changes and other
-weather properties at every giving time
+weather properties at every giving time in Yaounde, Cameroon
 
 In this project i make use of **OpenWeather api**
 
