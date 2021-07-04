@@ -11,6 +11,10 @@ weather properties at every giving time in Yaounde, Cameroon
 
 In this project i make use of **OpenWeather api**
 
+## Web Demo
+
+- ![alt text](https://github.com/B4eva/weatherapp/blob/master/assets/images/ui.jpg)
+
 ## Get started
 
 A few resources to get you started if this is your first Flutter project:
@@ -22,4 +26,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-- ![alt text](https://github.com/B4eva/weatherapp/blob/master/assets/images/ui.jpg)
+
